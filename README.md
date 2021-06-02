@@ -1,8 +1,9 @@
 # Simulation-Based Analysis of Hydrometallurgical Processes. Case Study: Small-Scale Gold Mining in Ecuador
 This repository contains synthetic data of four different hydrometallurgical processes. For more information about this work you can access to the following link: https://www.mdpi.com/2075-163X/11/5/534
 
-YouTube video explanation (in Spanish):
-![Video](https://www.mdpi.com/minerals/minerals-11-00534/article_deploy/html/images/minerals-11-00534-g003-550.jpg)(https://www.youtube.com/watch?v=cfnTyh6s-dE)
+**YouTube video explanation (in Spanish):**
+
+[![Video](https://www.mdpi.com/minerals/minerals-11-00534/article_deploy/html/images/minerals-11-00534-g003-550.jpg)](https://www.youtube.com/watch?v=cfnTyh6s-dE)
 
 If using this information, the appropiate citation is the following:
 
